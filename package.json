@@ -1,0 +1,23 @@
+{
+  "name": "power-throw",
+  "version": "0.0.1",
+  "description": "Tiny library of exception throwing utils.",
+  "main": "power-throw.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevekane/power-throw.git"
+  },
+  "keywords": [
+    "exceptions",
+    "throw",
+    ""
+  ],
+  "author": "Steve Kane",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "~2.3.0"
+  }
+}
